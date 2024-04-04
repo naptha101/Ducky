@@ -1,0 +1,17 @@
+{
+
+    "name":"Duckii",
+    "description":"Jokes Of Vashuu",
+    "version":"1.0",
+    "icons":{
+        "16":"OIP.jpg",
+        "48":"OIP.jpg",
+        "128":"OIP.jpg"
+    },
+    "manifest_version":3,
+    "action":{
+        "default_popup":"popup.html",
+        "default_icon":"OIP.jpg"
+
+    }
+}
